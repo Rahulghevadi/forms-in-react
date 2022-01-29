@@ -1,0 +1,29 @@
+.LoginContainer{
+width: fit-content; 
+justify-content: center;
+align-items: center;
+text-align: center;
+margin: 200px auto;
+display: flex;
+flex-direction: column;
+background-color: cyan;
+padding: 10px;
+border-radius: 20px;
+width: fit-content;
+} 
+
+body{
+  background-color: cornflowerblue;
+}
+
+input{
+  border-radius: 5px;
+  height: 30px;
+  width:300px;
+}
+
+button{
+  border-radius: 5px;
+  height: 30px;
+  width:100px;
+}
